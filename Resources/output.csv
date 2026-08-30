@@ -1,0 +1,39 @@
+source,log_message,target_label
+ModernCRM,IP 10.24.18.76 blocked due to potential attack,Security Alert
+BillingSystem,User 28471 logged in.,Security Alert
+AnalyticsEngine,File sales_4821.csv uploaded successfully by user User814.,System Notification
+AnalyticsEngine,Backup completed successfully.,System Notification
+ModernHR,GET /v2/8ac42f71c9e34a2dbf31e2c7a8f9d421/servers/detail HTTP/1.1 RCODE  200 len: 1642 time: 0.1927400,HTTP Status
+ModernHR,Admin access escalation detected for user 7316,Security Alert
+LegacyCRM,Case escalation for ticket ID 8452 failed because the assigned support agent is no longer active.,Workflow Error
+LegacyCRM,Invoice generation process aborted for order ID 9147 due to invalid tax calculation module.,Workflow Error
+LegacyCRM,The 'BulkEmailSender' feature is no longer supported. Use 'EmailCampaignManager' for improved functionality.,Deprecation Warning
+LegacyCRM,The 'ReportGenerator' module will be retired in version 4.0. Please migrate to the 'AdvancedAnalyticsSuite' by Dec 2025,Deprecation Warning
+ModernCRM,IP 172.16.45.203 blocked due to suspicious login activity,Security Alert
+BillingSystem,Payment transaction 673921 processed successfully.,Unclassified
+BillingSystem,Failed payment attempt for invoice ID INV-48217.,Unclassified
+AnalyticsEngine,File customer_metrics_8214.json uploaded successfully by user User392.,System Notification
+AnalyticsEngine,Scheduled analytics job completed successfully.,Unclassified
+ModernHR,GET /v2/91bc7d5e31a64f7b9c12/employees/detail HTTP/1.1 RCODE  404 len: 827 time: 0.1432100,HTTP Status
+ModernHR,Unauthorized privilege escalation attempt detected for user 5841,Security Alert
+LegacyCRM,Customer record update failed for account ID 6248 due to invalid contact information.,Workflow Error
+LegacyCRM,Data synchronization process aborted because the remote CRM endpoint is unavailable.,Workflow Error
+LegacyCRM,The 'LegacyDashboard' module is deprecated. Use 'ModernDashboard' for improved reporting capabilities.,Deprecation Warning
+ModernCRM,Multiple failed authentication attempts detected from IP 192.168.72.41,Security Alert
+BillingSystem,User 49218 logged out successfully.,Security Alert
+AnalyticsEngine,File inventory_3920.parquet uploaded successfully by user User721.,System Notification
+AnalyticsEngine,Data processing pipeline completed with 0 errors.,Error
+ModernHR,GET /v2/45d91f0a7e3b4c6d8a21/servers/list HTTP/1.1 RCODE  200 len: 1437 time: 0.1745600,HTTP Status
+ModernHR,Suspicious administrator login detected for user 8164,Security Alert
+LegacyCRM,Ticket assignment failed for ticket ID 5639 because no active support agents were available.,Workflow Error
+LegacyCRM,Order validation failed for order ID 7281 due to missing billing information.,Workflow Error
+LegacyCRM,The 'OldReportEngine' feature is deprecated. Migrate to 'AdvancedAnalyticsSuite' before the next major release.,Deprecation Warning
+ModernCRM,IP 10.55.91.18 blocked after repeated failed login attempts,Security Alert
+BillingSystem,Refund request for transaction 582104 submitted successfully.,Unclassified
+AnalyticsEngine,File monthly_revenue_7743.csv uploaded successfully by user User156.,System Notification
+AnalyticsEngine,Backup verification completed successfully.,Error
+ModernHR,GET /v2/7f31c2e9a84d4b16/servers/detail HTTP/1.1 RCODE  500 len: 391 time: 0.4218700,HTTP Status
+ModernHR,Access policy violation detected for user 4632,Security Alert
+LegacyCRM,Case closure failed for ticket ID 3907 because the customer record could not be found.,Workflow Error
+LegacyCRM,Invoice generation failed for order ID 6128 due to a missing tax configuration.,Workflow Error
+LegacyCRM,The 'EmailTemplateManager' module will be retired in version 4.0. Please migrate to 'CampaignTemplateManager'.,Deprecation Warning
